@@ -1,7 +1,7 @@
-## ENTER YOUR NAME:
-## ENTER YOUR REGISTER NO: 
+## ENTER YOUR NAME:Meiyarasi V
+## ENTER YOUR REGISTER NO: 212221230058 
 ## EX. NO.8 :
-## DATE:
+## DATE: 06-05-2024
 # Implementation of Speech Recognition
 ### Aim:
  To implement the conversion of live speech to text.
